@@ -1,0 +1,48 @@
+# ----------------------------
+# Core NLP + Embeddings
+# ----------------------------
+sentence-transformers==2.7.0
+transformers==4.39.3
+torch>=2.0.0
+
+# ----------------------------
+# OCR / PDF Extraction
+# ----------------------------
+pytesseract
+pdf2image
+pdfplumber
+pypdf2
+pillow
+
+# ----------------------------
+# Text Cleaning / Tokenization
+# ----------------------------
+nltk==3.8.1
+regex
+
+# ----------------------------
+# RAG Logic
+# ----------------------------
+numpy>=1.24.0
+scikit-learn>=1.2.0
+scipy>=1.11.0
+
+# ----------------------------
+# Web UI
+# ----------------------------
+gradio==4.19.2
+
+# ----------------------------
+# LLM API
+# ----------------------------
+groq==0.7.0
+python-dotenv==1.0.1
+requests
+tqdm
+
+# ----------------------------
+# Optional / Useful
+# ----------------------------
+pandas
+matplotlib
+watchdog
