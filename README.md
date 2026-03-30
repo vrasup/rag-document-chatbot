@@ -1,4 +1,4 @@
-# 🚀 RAG-Powered Document Chatbot
+# RAG-Powered Document Chatbot
 
 **Unlock insights from PDFs instantly using RAG and LLMs!**
 
